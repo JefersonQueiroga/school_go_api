@@ -1,0 +1,37 @@
+# Binaries, plugins, libs
+**/*.exe
+**/*.exe~
+**/*.dll
+**/*.so
+**/*.dylib
+**/test
+**/test.exe
+**/test.test
+**/*.out
+*.out
+**/*.o
+
+# Log files
+*.log
+
+# Output directories
+**/dist
+**/_output
+**/build
+
+# Dependency directories
+vendor/
+
+# IDE files
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.tmp.*
+**/tmp/
+*.swp
+*.bak
+*.te~
+*~
+.#*
